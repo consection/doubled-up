@@ -36,5 +36,5 @@ You should definitely check out changelog.md for versions that were previously r
 - ZUN / Team Shanghai Alice - Music & SFX (Native faith, boss death sfx, player death sfx, etc.)
 - reale_ly - character decals, can be found [here](https://reale-ly.itch.io/touhou-mini-pack)
 - myinstants.com - sound selections
-- anonstella (me) - I made some stuffs like OC, bullets (boss and player, drops)
+- yes (me) - I made some stuffs like OC, bullets (boss and player, drops)
 - AdhesiveWombat - Night Shade
